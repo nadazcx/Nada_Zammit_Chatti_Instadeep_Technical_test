@@ -4,8 +4,6 @@ import java.time.format.DateTimeFormatter;
 public class Main {
     
     public static void main(String[] args){
-        FinancialCategory financialCategory= FinancialCategory()
-        Category  logistics
         Priority Low;
         String date = "2024-03-08";
         DateTimeFormatter format = DateTimeFormatter.ofPattern("yyyy-MM-dd");

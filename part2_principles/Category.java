@@ -2,13 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Category{
-    List<Task> tasks= new ArrayList<>();
 
-    public void addTask(Task task){
-        tasks.add(task);
-    }
-    public filterTaskByCategory()
-    
   
 }
 
